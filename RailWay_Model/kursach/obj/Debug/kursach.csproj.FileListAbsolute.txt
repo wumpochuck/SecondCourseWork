@@ -1,0 +1,30 @@
+C:\Users\wumpo\OneDrive\sos\kursach\kursach\bin\Debug\kursach.exe.config
+C:\Users\wumpo\OneDrive\sos\kursach\kursach\bin\Debug\kursach.exe
+C:\Users\wumpo\OneDrive\sos\kursach\kursach\bin\Debug\kursach.pdb
+C:\Users\wumpo\OneDrive\sos\kursach\kursach\obj\Debug\kursach.csproj.AssemblyReference.cache
+C:\Users\wumpo\OneDrive\sos\kursach\kursach\obj\Debug\kursach.Form1.resources
+C:\Users\wumpo\OneDrive\sos\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\wumpo\OneDrive\sos\kursach\kursach\obj\Debug\kursach.csproj.GenerateResource.cache
+C:\Users\wumpo\OneDrive\sos\kursach\kursach\obj\Debug\kursach.csproj.CoreCompileInputs.cache
+C:\Users\wumpo\OneDrive\sos\kursach\kursach\obj\Debug\kursach.exe
+C:\Users\wumpo\OneDrive\sos\kursach\kursach\obj\Debug\kursach.pdb
+D:\Рабочий стол\sos\kursach\kursach\bin\Debug\kursach.exe.config
+D:\Рабочий стол\sos\kursach\kursach\bin\Debug\kursach.exe
+D:\Рабочий стол\sos\kursach\kursach\bin\Debug\kursach.pdb
+D:\Рабочий стол\sos\kursach\kursach\obj\Debug\kursach.csproj.AssemblyReference.cache
+D:\Рабочий стол\sos\kursach\kursach\obj\Debug\kursach.Form1.resources
+D:\Рабочий стол\sos\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+D:\Рабочий стол\sos\kursach\kursach\obj\Debug\kursach.csproj.GenerateResource.cache
+D:\Рабочий стол\sos\kursach\kursach\obj\Debug\kursach.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\sos\kursach\kursach\obj\Debug\kursach.exe
+D:\Рабочий стол\sos\kursach\kursach\obj\Debug\kursach.pdb
+D:\Github\SecondCourseWork\RailWay_Model\kursach\bin\Debug\kursach.exe.config
+D:\Github\SecondCourseWork\RailWay_Model\kursach\bin\Debug\kursach.exe
+D:\Github\SecondCourseWork\RailWay_Model\kursach\bin\Debug\kursach.pdb
+D:\Github\SecondCourseWork\RailWay_Model\kursach\obj\Debug\kursach.csproj.AssemblyReference.cache
+D:\Github\SecondCourseWork\RailWay_Model\kursach\obj\Debug\kursach.Form1.resources
+D:\Github\SecondCourseWork\RailWay_Model\kursach\obj\Debug\kursach.Properties.Resources.resources
+D:\Github\SecondCourseWork\RailWay_Model\kursach\obj\Debug\kursach.csproj.GenerateResource.cache
+D:\Github\SecondCourseWork\RailWay_Model\kursach\obj\Debug\kursach.csproj.CoreCompileInputs.cache
+D:\Github\SecondCourseWork\RailWay_Model\kursach\obj\Debug\kursach.exe
+D:\Github\SecondCourseWork\RailWay_Model\kursach\obj\Debug\kursach.pdb
